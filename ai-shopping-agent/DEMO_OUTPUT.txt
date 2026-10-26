@@ -1,0 +1,9 @@
+OFFLINE TOOL DEMO (not an LLM-generated conversation)
+Catalog: 787 products
+Demo customers: 50
+Wrist weights within $11.50 before discount: 0
+Demo premier account authenticated: True
+Match: Gymenist Pair Of 2 Ankle Weight & Wrist Weights With Adjustable Valcro Strap
+Catalog price: $11.99
+Premier price: $11.39
+No model calls or semantic searches were made.

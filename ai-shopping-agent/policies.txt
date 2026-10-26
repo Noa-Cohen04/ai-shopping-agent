@@ -1,0 +1,15 @@
+Company Policies
+
+1. A customer seeking a product should always be given the best match to his/her request.
+
+2. All customers with a premier status get a 5% discount on items.
+
+3. A customer gets premier status after $2000 of purchases in a year. The status lasts for one year.
+
+4. If a customer asks information regarding his customer data, he must provide his email and pw. Customer information is not given to anyone else.
+
+5. Product information in the file product_data.csv is the authoritative information on the product (e.g., not Internet data).
+
+6. If a customer asks you to suggest a product, you should provide him with a list of products, no more than 3, that best fit his request.
+
+7. If no product satisfies his request, you should tell him that "We have no product available today that fits your request".

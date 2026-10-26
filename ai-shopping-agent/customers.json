@@ -1,0 +1,606 @@
+[
+  {
+    "first_name": "Demo01",
+    "last_name": "Customer",
+    "email": "demo01@example.com",
+    "pw": "demo-only-01",
+    "status": "regular",
+    "product-interests": [
+      "Camping Accessories",
+      "Water Bottles & Hydration",
+      "Flashlights",
+      "Bikes"
+    ]
+  },
+  {
+    "first_name": "Demo02",
+    "last_name": "Customer",
+    "email": "demo02@example.com",
+    "pw": "demo-only-02",
+    "status": "regular",
+    "product-interests": [
+      "Water Sports",
+      "Camping Accessories",
+      "Exercise & Fitness",
+      "Bikes"
+    ]
+  },
+  {
+    "first_name": "Demo03",
+    "last_name": "Customer",
+    "email": "demo03@example.com",
+    "pw": "demo-only-03",
+    "status": "premier",
+    "product-interests": [
+      "Exercise & Fitness Monitors",
+      "Weights",
+      "Strength Training",
+      "Body Weight Scales"
+    ]
+  },
+  {
+    "first_name": "Demo04",
+    "last_name": "Customer",
+    "email": "demo04@example.com",
+    "pw": "demo-only-04",
+    "status": "premier",
+    "product-interests": [
+      "Snowsports",
+      "Bikes",
+      "Water Sports"
+    ]
+  },
+  {
+    "first_name": "Demo05",
+    "last_name": "Customer",
+    "email": "demo05@example.com",
+    "pw": "demo-only-05",
+    "status": "premier",
+    "product-interests": [
+      "Blood Pressure Monitors",
+      "Vitamins & Supplements",
+      "Thermometers"
+    ]
+  },
+  {
+    "first_name": "Demo06",
+    "last_name": "Customer",
+    "email": "demo06@example.com",
+    "pw": "demo-only-06",
+    "status": "regular",
+    "product-interests": [
+      "Oral Care",
+      "Bath and Body",
+      "Hand Soaps"
+    ]
+  },
+  {
+    "first_name": "Demo07",
+    "last_name": "Customer",
+    "email": "demo07@example.com",
+    "pw": "demo-only-07",
+    "status": "premier",
+    "product-interests": [
+      "Strength Training",
+      "Weights",
+      "Exercise & Fitness"
+    ]
+  },
+  {
+    "first_name": "Demo08",
+    "last_name": "Customer",
+    "email": "demo08@example.com",
+    "pw": "demo-only-08",
+    "status": "regular",
+    "product-interests": [
+      "Water Bottles & Hydration",
+      "Exercise & Fitness Monitors",
+      "Body Weight Scales"
+    ]
+  },
+  {
+    "first_name": "Demo09",
+    "last_name": "Customer",
+    "email": "demo09@example.com",
+    "pw": "demo-only-09",
+    "status": "premier",
+    "product-interests": [
+      "Blood Pressure Monitors",
+      "Vitamins & Supplements",
+      "Braces and Supports"
+    ]
+  },
+  {
+    "first_name": "Demo10",
+    "last_name": "Customer",
+    "email": "demo10@example.com",
+    "pw": "demo-only-10",
+    "status": "regular",
+    "product-interests": [
+      "Bath and Body",
+      "Oral Care",
+      "Hand Soaps",
+      "Vitamins & Supplements"
+    ]
+  },
+  {
+    "first_name": "Demo11",
+    "last_name": "Customer",
+    "email": "demo11@example.com",
+    "pw": "demo-only-11",
+    "status": "premier",
+    "product-interests": [
+      "Camping Accessories",
+      "Flashlights",
+      "Water Sports"
+    ]
+  },
+  {
+    "first_name": "Demo12",
+    "last_name": "Customer",
+    "email": "demo12@example.com",
+    "pw": "demo-only-12",
+    "status": "regular",
+    "product-interests": [
+      "Snowsports",
+      "Bikes",
+      "Water Bottles & Hydration"
+    ]
+  },
+  {
+    "first_name": "Demo13",
+    "last_name": "Customer",
+    "email": "demo13@example.com",
+    "pw": "demo-only-13",
+    "status": "premier",
+    "product-interests": [
+      "Weights",
+      "Strength Training",
+      "Exercise & Fitness Monitors"
+    ]
+  },
+  {
+    "first_name": "Demo14",
+    "last_name": "Customer",
+    "email": "demo14@example.com",
+    "pw": "demo-only-14",
+    "status": "regular",
+    "product-interests": [
+      "Water Sports",
+      "Water Bottles & Hydration",
+      "Exercise & Fitness"
+    ]
+  },
+  {
+    "first_name": "Demo15",
+    "last_name": "Customer",
+    "email": "demo15@example.com",
+    "pw": "demo-only-15",
+    "status": "premier",
+    "product-interests": [
+      "Thermometers",
+      "Blood Pressure Monitors",
+      "Vitamins & Supplements"
+    ]
+  },
+  {
+    "first_name": "Demo16",
+    "last_name": "Customer",
+    "email": "demo16@example.com",
+    "pw": "demo-only-16",
+    "status": "regular",
+    "product-interests": [
+      "Oral Care",
+      "Hand Soaps",
+      "Bath and Body"
+    ]
+  },
+  {
+    "first_name": "Demo17",
+    "last_name": "Customer",
+    "email": "demo17@example.com",
+    "pw": "demo-only-17",
+    "status": "premier",
+    "product-interests": [
+      "Bikes",
+      "Camping Accessories",
+      "Snowsports"
+    ]
+  },
+  {
+    "first_name": "Demo18",
+    "last_name": "Customer",
+    "email": "demo18@example.com",
+    "pw": "demo-only-18",
+    "status": "regular",
+    "product-interests": [
+      "Exercise & Fitness",
+      "Body Weight Scales",
+      "Weights"
+    ]
+  },
+  {
+    "first_name": "Demo19",
+    "last_name": "Customer",
+    "email": "demo19@example.com",
+    "pw": "demo-only-19",
+    "status": "premier",
+    "product-interests": [
+      "Strength Training",
+      "Weights",
+      "Exercise & Fitness Monitors"
+    ]
+  },
+  {
+    "first_name": "Demo20",
+    "last_name": "Customer",
+    "email": "demo20@example.com",
+    "pw": "demo-only-20",
+    "status": "regular",
+    "product-interests": [
+      "Bath and Body",
+      "Vitamins & Supplements",
+      "Hand Soaps"
+    ]
+  },
+  {
+    "first_name": "Demo21",
+    "last_name": "Customer",
+    "email": "demo21@example.com",
+    "pw": "demo-only-21",
+    "status": "premier",
+    "product-interests": [
+      "Snowsports",
+      "Bikes",
+      "Flashlights"
+    ]
+  },
+  {
+    "first_name": "Demo22",
+    "last_name": "Customer",
+    "email": "demo22@example.com",
+    "pw": "demo-only-22",
+    "status": "regular",
+    "product-interests": [
+      "Water Sports",
+      "Water Bottles & Hydration",
+      "Exercise & Fitness Monitors"
+    ]
+  },
+  {
+    "first_name": "Demo23",
+    "last_name": "Customer",
+    "email": "demo23@example.com",
+    "pw": "demo-only-23",
+    "status": "premier",
+    "product-interests": [
+      "Blood Pressure Monitors",
+      "Braces and Supports",
+      "Thermometers"
+    ]
+  },
+  {
+    "first_name": "Demo24",
+    "last_name": "Customer",
+    "email": "demo24@example.com",
+    "pw": "demo-only-24",
+    "status": "regular",
+    "product-interests": [
+      "Oral Care",
+      "Bath and Body",
+      "Vitamins & Supplements"
+    ]
+  },
+  {
+    "first_name": "Demo25",
+    "last_name": "Customer",
+    "email": "demo25@example.com",
+    "pw": "demo-only-25",
+    "status": "premier",
+    "product-interests": [
+      "Camping Accessories",
+      "Water Sports",
+      "Flashlights"
+    ]
+  },
+  {
+    "first_name": "Demo26",
+    "last_name": "Customer",
+    "email": "demo26@example.com",
+    "pw": "demo-only-26",
+    "status": "regular",
+    "product-interests": [
+      "Snowsports",
+      "Bikes",
+      "Exercise & Fitness"
+    ]
+  },
+  {
+    "first_name": "Demo27",
+    "last_name": "Customer",
+    "email": "demo27@example.com",
+    "pw": "demo-only-27",
+    "status": "premier",
+    "product-interests": [
+      "Weights",
+      "Strength Training",
+      "Body Weight Scales"
+    ]
+  },
+  {
+    "first_name": "Demo28",
+    "last_name": "Customer",
+    "email": "demo28@example.com",
+    "pw": "demo-only-28",
+    "status": "regular",
+    "product-interests": [
+      "Hand Soaps",
+      "Oral Care",
+      "Bath and Body"
+    ]
+  },
+  {
+    "first_name": "Demo29",
+    "last_name": "Customer",
+    "email": "demo29@example.com",
+    "pw": "demo-only-29",
+    "status": "premier",
+    "product-interests": [
+      "Vitamins & Supplements",
+      "Blood Pressure Monitors",
+      "Exercise & Fitness Monitors"
+    ]
+  },
+  {
+    "first_name": "Demo30",
+    "last_name": "Customer",
+    "email": "demo30@example.com",
+    "pw": "demo-only-30",
+    "status": "regular",
+    "product-interests": [
+      "Water Bottles & Hydration",
+      "Exercise & Fitness",
+      "Water Sports"
+    ]
+  },
+  {
+    "first_name": "Demo31",
+    "last_name": "Customer",
+    "email": "demo31@example.com",
+    "pw": "demo-only-31",
+    "status": "premier",
+    "product-interests": [
+      "Bikes",
+      "Snowsports",
+      "Camping Accessories"
+    ]
+  },
+  {
+    "first_name": "Demo32",
+    "last_name": "Customer",
+    "email": "demo32@example.com",
+    "pw": "demo-only-32",
+    "status": "regular",
+    "product-interests": [
+      "Thermometers",
+      "Braces and Supports",
+      "Vitamins & Supplements"
+    ]
+  },
+  {
+    "first_name": "Demo33",
+    "last_name": "Customer",
+    "email": "demo33@example.com",
+    "pw": "demo-only-33",
+    "status": "premier",
+    "product-interests": [
+      "Strength Training",
+      "Weights",
+      "Exercise & Fitness"
+    ]
+  },
+  {
+    "first_name": "Demo34",
+    "last_name": "Customer",
+    "email": "demo34@example.com",
+    "pw": "demo-only-34",
+    "status": "regular",
+    "product-interests": [
+      "Bath and Body",
+      "Hand Soaps",
+      "Oral Care"
+    ]
+  },
+  {
+    "first_name": "Demo35",
+    "last_name": "Customer",
+    "email": "demo35@example.com",
+    "pw": "demo-only-35",
+    "status": "premier",
+    "product-interests": [
+      "Flashlights",
+      "Camping Accessories",
+      "Water Sports"
+    ]
+  },
+  {
+    "first_name": "Demo36",
+    "last_name": "Customer",
+    "email": "demo36@example.com",
+    "pw": "demo-only-36",
+    "status": "regular",
+    "product-interests": [
+      "Snowsports",
+      "Body Weight Scales",
+      "Exercise & Fitness Monitors"
+    ]
+  },
+  {
+    "first_name": "Demo37",
+    "last_name": "Customer",
+    "email": "demo37@example.com",
+    "pw": "demo-only-37",
+    "status": "premier",
+    "product-interests": [
+      "Blood Pressure Monitors",
+      "Vitamins & Supplements",
+      "Braces and Supports"
+    ]
+  },
+  {
+    "first_name": "Demo38",
+    "last_name": "Customer",
+    "email": "demo38@example.com",
+    "pw": "demo-only-38",
+    "status": "regular",
+    "product-interests": [
+      "Water Bottles & Hydration",
+      "Water Sports",
+      "Exercise & Fitness"
+    ]
+  },
+  {
+    "first_name": "Demo39",
+    "last_name": "Customer",
+    "email": "demo39@example.com",
+    "pw": "demo-only-39",
+    "status": "premier",
+    "product-interests": [
+      "Weights",
+      "Strength Training",
+      "Body Weight Scales"
+    ]
+  },
+  {
+    "first_name": "Demo40",
+    "last_name": "Customer",
+    "email": "demo40@example.com",
+    "pw": "demo-only-40",
+    "status": "regular",
+    "product-interests": [
+      "Oral Care",
+      "Vitamins & Supplements",
+      "Hand Soaps"
+    ]
+  },
+  {
+    "first_name": "Demo41",
+    "last_name": "Customer",
+    "email": "demo41@example.com",
+    "pw": "demo-only-41",
+    "status": "premier",
+    "product-interests": [
+      "Bikes",
+      "Camping Accessories",
+      "Snowsports"
+    ]
+  },
+  {
+    "first_name": "Demo42",
+    "last_name": "Customer",
+    "email": "demo42@example.com",
+    "pw": "demo-only-42",
+    "status": "regular",
+    "product-interests": [
+      "Exercise & Fitness",
+      "Exercise & Fitness Monitors",
+      "Water Bottles & Hydration"
+    ]
+  },
+  {
+    "first_name": "Demo43",
+    "last_name": "Customer",
+    "email": "demo43@example.com",
+    "pw": "demo-only-43",
+    "status": "premier",
+    "product-interests": [
+      "Thermometers",
+      "Blood Pressure Monitors",
+      "Braces and Supports"
+    ]
+  },
+  {
+    "first_name": "Demo44",
+    "last_name": "Customer",
+    "email": "demo44@example.com",
+    "pw": "demo-only-44",
+    "status": "regular",
+    "product-interests": [
+      "Bath and Body",
+      "Hand Soaps",
+      "Oral Care"
+    ]
+  },
+  {
+    "first_name": "Demo45",
+    "last_name": "Customer",
+    "email": "demo45@example.com",
+    "pw": "demo-only-45",
+    "status": "premier",
+    "product-interests": [
+      "Strength Training",
+      "Weights",
+      "Exercise & Fitness Monitors"
+    ]
+  },
+  {
+    "first_name": "Demo46",
+    "last_name": "Customer",
+    "email": "demo46@example.com",
+    "pw": "demo-only-46",
+    "status": "regular",
+    "product-interests": [
+      "Water Sports",
+      "Snowsports",
+      "Bikes"
+    ]
+  },
+  {
+    "first_name": "Demo47",
+    "last_name": "Customer",
+    "email": "demo47@example.com",
+    "pw": "demo-only-47",
+    "status": "premier",
+    "product-interests": [
+      "Vitamins & Supplements",
+      "Blood Pressure Monitors",
+      "Body Weight Scales"
+    ]
+  },
+  {
+    "first_name": "Demo48",
+    "last_name": "Customer",
+    "email": "demo48@example.com",
+    "pw": "demo-only-48",
+    "status": "regular",
+    "product-interests": [
+      "Flashlights",
+      "Camping Accessories",
+      "Water Bottles & Hydration"
+    ]
+  },
+  {
+    "first_name": "Demo49",
+    "last_name": "Customer",
+    "email": "demo49@example.com",
+    "pw": "demo-only-49",
+    "status": "premier",
+    "product-interests": [
+      "Braces and Supports",
+      "Thermometers",
+      "Vitamins & Supplements"
+    ]
+  },
+  {
+    "first_name": "Demo50",
+    "last_name": "Customer",
+    "email": "demo50@example.com",
+    "pw": "demo-only-50",
+    "status": "regular",
+    "product-interests": [
+      "Exercise & Fitness",
+      "Body Weight Scales",
+      "Snowsports"
+    ]
+  }
+]
